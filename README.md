@@ -34,8 +34,6 @@ During this project I improved my understanding of:
 - responsive layouts
 
 Example:
-
-```css
 * {
   box-sizing: border-box;
 }
