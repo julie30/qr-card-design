@@ -11,7 +11,7 @@ This is my solution to the QR code component challenge on Frontend Mentor. The p
 ### Links
 
 - Solution URL: https://github.com/julie30/qr-card-design
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://julie30.github.io/qr-card-design/
 
 ## My process
 
